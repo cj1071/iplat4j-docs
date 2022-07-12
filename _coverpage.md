@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" src="./images/iPlatV6Doc.png">
+<img width="80px" style="border-radius: 50%" src="./images/iPlatV6Doc.png">
 
 # iPlat4j V6使用指南
 
