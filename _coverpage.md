@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" src="https://img0.baidu.com/it/u=4111985514,2062554561&fm=26&fmt=auto">
+<img width="180px" style="border-radius: 50%" src="./images/iPlatV6Doc.png">
 
 # iPlat4j V6使用指南
 
