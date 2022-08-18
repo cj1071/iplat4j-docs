@@ -85,6 +85,12 @@ EiCommunicator 提供三个静态的方法为开发人员调用，分别是send�
 
 详见：[微服务调用](http://rt.baosight.com/cf/pages/viewpage.action?pageId=30048296)
 
+
+
+## 服务仿真调用[EUSI01](https://confluence.baocloud.cn/pages/viewpage.action?pageId=25991350)
+
+
+
 ## iPlatUI-页面通知（NotificationUtil）
 详见：[iPlatUI-页面通知信息规范](https://confluence.baocloud.cn/pages/viewpage.action?pageId=12569499)  
 详见：[NotificationUtil-通知的简单应用](https://confluence.baocloud.cn/pages/viewpage.action?pageId=12569499)
